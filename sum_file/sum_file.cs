@@ -1,7 +1,7 @@
 using System;
 using System.IO;
 
-namespace IntroCS
+namespace IntroCSCS
 {
    class SumFile  // sum a file integers, one per line
    {
